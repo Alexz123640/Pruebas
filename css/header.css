@@ -1,0 +1,21 @@
+.nav-bar {
+  width: 100vw;
+  background-color: #0f1411;
+  padding: 20px 50px 10px 50px;
+  position: fixed;
+}
+.izquierdo {
+  font-family: "Roboto Condensed", sans-serif;
+}
+.derecho {
+  font-family: "Roboto Condensed", sans-serif;
+  color: #fff;
+}
+ul{
+  list-style:none;
+}
+.a-links{
+  color: #fff;
+  text-decoration: none;
+}
+
